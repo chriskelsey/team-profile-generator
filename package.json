@@ -1,0 +1,11 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Command line application that takes in team information and generates a webpage based on that information.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christopher Kelsey",
+  "license": "ISC"
+}
